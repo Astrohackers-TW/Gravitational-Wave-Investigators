@@ -1,10 +1,11 @@
 # 重力波審查員 (Gravitational Wave Investigators)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://github.com/Astrohackers-TW/Gravitational-Wave-Investigators/blob/master/LICENSE-TEXT)
 
 ## 使命
 [可重複性](https://en.wikipedia.org/wiki/Reproducibility)是科學方法中一項重要的原則。你們的使命是與其他重力波審查員合力審查並重現[LIGO開放科學中心](https://losc.ligo.org)所提供的LIGO觀測資料分析步驟，找出LIGO研究團隊是如何發現重力波
 
 ## 任務表單
-* [中文模版](https://github.com/Astrohackers-TW/Gravitational-Wave-Investigators/blob/master/GWIs_template_zh-TW.md)
+* [繁中模版](https://github.com/Astrohackers-TW/Gravitational-Wave-Investigators/blob/master/GWIs_template_zh-TW.md)
 * [英文模版](https://github.com/Astrohackers-TW/Gravitational-Wave-Investigators/blob/master/GWIs_template_en.md)
 
 ## 歷屆重力波審查員的任務執行成果
